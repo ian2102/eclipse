@@ -44,5 +44,7 @@ This project is licensed under the Apache License 2.0.
 
 # Acknowledgments:
 Pygame: https://www.pygame.org
+
 OpenAI GPT-3.5 model for providing assistance in creating this README.
+
 Enjoy playing Eclipse Game!
