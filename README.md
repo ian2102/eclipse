@@ -17,15 +17,19 @@ Menu system: Access in-game controls, adjust volume, resume or exit the game.
 Install Python (version 3.7 or higher) if you haven't already.
 
 Clone the Eclipse Game repository from GitHub: 
+
 ```git clone https://github.com/ian2102/eclipse.git```
 
 Navigate to the project directory: 
+
 ```cd eclipse```
 
 Install the required dependencies: 
+
 ```pip install -r requirements.txt```
 
 Run the game: 
+
 ```python main.py```
 
 # Controls:
