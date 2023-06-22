@@ -36,7 +36,7 @@ Contributing:
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
 # License:
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 # Acknowledgments:
 Pygame: https://www.pygame.org
