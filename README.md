@@ -30,7 +30,7 @@ Install the required dependencies:
 
 Run the game: 
 
-```python main.py```
+```python Eclipse.py```
 
 # Controls:
 Mouse movement: Control character position
