@@ -6,7 +6,7 @@ import sys
 
 pygame.init()
 
-VERSION = "School"
+VERSION = "Main"
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
